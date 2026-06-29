@@ -1,0 +1,39 @@
+ 
+        body { 
+        	background: linear-gradient(to right, #121212, #1a1a2e, #1a1a2e, #121212);
+          font-family: sans-serif, Arial;
+        	min-height: 100vh; /* Garante que o fundo cubra a tela inteira */
+        	margin: 0;         /* Remove margens padrão do navegador */
+        	}
+        	
+        h1 {
+          color: black;
+        margin: 20px;
+         padding: 40px;
+         border-radius: 10px;
+          background-color: #cdc5c5;
+          background: rgba(255, 0);
+        }
+        
+        /* Estilizano o nome das redes sociais */
+        .instagram, .github, .zap, .linke, .footer {
+        	box-shadow: 0 10px 30px -10px oklch(.5 .2 155 / .4);
+          margin: 50px;
+          padding: 40px;
+          background-color: #cdc5c5;
+          background: rgba(255, 0);
+          border-radius: 80px;
+          display: block;
+        }
+        
+        /*link dos sites*/
+        .link {   
+          box-shadow: 0 10px 30px -10px oklch(.5 .2 155 / .4);
+         	margin: 50px auto;
+          padding: 40px;
+          background-color: #cdc5c5;
+          background: rgba(255, 0);
+          border-radius: 80px;
+          display: block;
+        }
+        
